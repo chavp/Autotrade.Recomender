@@ -8,3 +8,5 @@ D:\workspace\projects\Autotrade.Recomender\Autotrade.Recomender.Tests\Autotrade.
 D:\workspace\projects\Autotrade.Recomender\Autotrade.Recomender.Tests\Autotrade.Recomender\obj\Debug\Autotrade.Recomender.csproj.CoreCompileInputs.cache
 D:\workspace\projects\Autotrade.Recomender\Autotrade.Recomender.Tests\Autotrade.Recomender\obj\Debug\Autotrade.Recomender.exe
 D:\workspace\projects\Autotrade.Recomender\Autotrade.Recomender.Tests\Autotrade.Recomender\obj\Debug\Autotrade.Recomender.pdb
+D:\workspace\projects\Autotrade.Recomender\Autotrade.Recomender.Tests\Autotrade.Recomender\bin\Debug\CsvHelper.dll
+D:\workspace\projects\Autotrade.Recomender\Autotrade.Recomender.Tests\Autotrade.Recomender\bin\Debug\CsvHelper.xml
