@@ -1,0 +1,10 @@
+D:\workspace\projects\Autotrade.Recomender\Autotrade.Recomender.Tests\Autotrade.Recomender\bin\Debug\Autotrade.Recomender.exe.config
+D:\workspace\projects\Autotrade.Recomender\Autotrade.Recomender.Tests\Autotrade.Recomender\bin\Debug\Autotrade.Recomender.exe
+D:\workspace\projects\Autotrade.Recomender\Autotrade.Recomender.Tests\Autotrade.Recomender\bin\Debug\Autotrade.Recomender.pdb
+D:\workspace\projects\Autotrade.Recomender\Autotrade.Recomender.Tests\Autotrade.Recomender\bin\Debug\Newtonsoft.Json.dll
+D:\workspace\projects\Autotrade.Recomender\Autotrade.Recomender.Tests\Autotrade.Recomender\bin\Debug\System.Net.Http.Formatting.dll
+D:\workspace\projects\Autotrade.Recomender\Autotrade.Recomender.Tests\Autotrade.Recomender\bin\Debug\Newtonsoft.Json.xml
+D:\workspace\projects\Autotrade.Recomender\Autotrade.Recomender.Tests\Autotrade.Recomender\bin\Debug\System.Net.Http.Formatting.xml
+D:\workspace\projects\Autotrade.Recomender\Autotrade.Recomender.Tests\Autotrade.Recomender\obj\Debug\Autotrade.Recomender.csproj.CoreCompileInputs.cache
+D:\workspace\projects\Autotrade.Recomender\Autotrade.Recomender.Tests\Autotrade.Recomender\obj\Debug\Autotrade.Recomender.exe
+D:\workspace\projects\Autotrade.Recomender\Autotrade.Recomender.Tests\Autotrade.Recomender\obj\Debug\Autotrade.Recomender.pdb
